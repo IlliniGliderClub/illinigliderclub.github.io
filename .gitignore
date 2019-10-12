@@ -1,6 +1,11 @@
+# Ruby Jekyll auto-generated files
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 .bundle
 vendor/
+
+# Editor/OS Temp Files
+.*.swp
+.DS_Store
