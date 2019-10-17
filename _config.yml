@@ -1,3 +1,8 @@
+# Site
+name: "Illini Glider Club"
+description: "Soaring Club in Central Illinois"
+url: "http://127.0.0.1:4000/"
+
 # Where things are
 source              : .
 destination         : ./_site
